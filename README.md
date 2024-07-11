@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MagikMaik
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in languages of all kinds and foods of all kinds
 - 🌱 I’m currently learning how to make react apps and how to get better at frontend development  
 - 💞️ I’m looking to collaborate on full-stack development focused on frontend development
-- 📫 How to reach me, send a message here or at Mike LinkedIn www.linkedin.com/in/michaelchs, other contact info at my portfolio repo ;)
+- 📫 How to reach me, send a message here or at my LinkedIn www.linkedin.com/in/michaelchs, other contact info at my portfolio repo ;)
 - ⚡ Fun fact: did you know that kitchenette in Spanish is cocineta? now you know
 
 <!---
